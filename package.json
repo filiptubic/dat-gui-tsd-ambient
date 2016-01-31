@@ -1,7 +1,7 @@
 {
   "name": "retyped-dat-gui-tsd-ambient",
   "description": "TypeScript typings for dat-gui",
-  "version": "0.5-0",
+  "version": "0.5.0-0",
   "licence": "MIT",
   "repository": "https://github.com/retyped/dat-gui-tsd-ambient",
   "typescript": {
