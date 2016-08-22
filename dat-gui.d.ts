@@ -2,7 +2,7 @@
 // Project: https://github.com/dataarts/dat.gui
 // Definitions by: Satoru Kimura <https://github.com/gyohk>
 
-declare module dat {
+declare module 'dat' {
     export class GUI {
         constructor(option?: GUIParams);
 
